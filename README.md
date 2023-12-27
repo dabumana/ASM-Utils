@@ -1,12 +1,19 @@
 ## Common tasks on AArch64 using ASM
 ---
 1- Basic File Deletion
+
 2- File Size Check
+
 3- Memory Allocation
+
 4- File Reading
+
 5- Memory Deallocation
+
 6- Error Handling
+
 7- User Input
+
 8- Recursive Deletion
 ---
 ## DISCLAIMER
